@@ -1,5 +1,8 @@
 # Pethaperumal Natarajan
 
+**Picture**
+![Me](./Me.jpg)
+
 **Programming Language Ranking**
 1. Java
 2. Python
