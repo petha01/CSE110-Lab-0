@@ -6,7 +6,7 @@
 3. C
 
 **Favourite Quote**
-> An office is for not dying. An office is a place to live life to the fullest, to the max, to... An office is a place where dreams come true. - Michael Scott
+> An office is for not dying. An office is a place to live life to the fullest, to the max, to... An office is a place where dreams come true.-Michael Scott
 
 **Random Code**
 ```
@@ -22,6 +22,7 @@ System.out.println("Hello World");
 
 [Cat Meme](./Woman-Yelling-At-Cat.jpeg)
 
+
 **Bucket List**
 - [x] Scuba Diving
 - [ ] Sky diving
@@ -31,5 +32,7 @@ System.out.println("Hello World");
 **Links**
 
 [LinkedIn](https://www.linkedin.com/in/pethaperumal-natarajan/)
+
+
 
 [Back to the top](#pethaperumal-natarajan)
