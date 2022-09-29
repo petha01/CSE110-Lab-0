@@ -19,14 +19,17 @@ System.out.println("Hello World");
 - Malay
 
 **Favourite Meme Template**
+
 [Cat Meme](./Woman-Yelling-At-Cat.jpeg)
 
 **Bucket List**
-- [x] A
-- [ ] B
-- [ ] C
+- [x] Scuba Diving
+- [ ] Sky diving
+- [ ] Going to space
+- [ ] Sky diving from space
 
 **Links**
+
 [LinkedIn](https://www.linkedin.com/in/pethaperumal-natarajan/)
 
 [Back to the top](#pethaperumal-natarajan)
